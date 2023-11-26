@@ -1,6 +1,7 @@
 # Olá! Meu nome é Nicholas Ferreira de Moura! 😎😎
 
 >## Seja bem-vindo ao meu mundinho! Aqui você verá de tudo e poderá me conhecer ainda mais! Vamo pra cima! 👊🏼👊🏼
+
 >## Se você deseja ver projetos mais completos e complexos, por favor cheque as organizações que aparecem no meu perfil! 🖥️🖥️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholassferreira)

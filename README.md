@@ -11,7 +11,7 @@
 
 >## Aqui estão algumas da tecnologias que mais uso:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholassferreira&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholassferreira&hide_progress=true&locale=pt-br)
 
 >## Além dessas, segue a lista de tecnologias que estou familiarizado 🤖🤖:
 

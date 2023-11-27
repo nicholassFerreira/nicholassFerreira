@@ -35,3 +35,4 @@
 
 </div><br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=768390&random=false&width=435&lines=Sempre+disposto+a+aprender+coisas+novas!+%F0%9F%A4%93;Volte+sempre!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)

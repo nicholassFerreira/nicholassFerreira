@@ -1,11 +1,16 @@
 # Olá! Meu nome é Nicholas Ferreira de Moura! 😎😎
 
 >## Seja bem-vindo ao meu mundinho! Aqui você verá de tudo e poderá me conhecer ainda mais! Vamo pra cima! 👊🏼👊🏼
->## Se você deseja ver projetos mais completos e complexos, por favor cheque as organizações que aparecem no meu perfil! 🖥️🖥️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholassferreira)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicholassferreira)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicholassFerreira)
+
+>## Se você deseja ver projetos mais completos e complexos, por favor cheque as organizações abaixo! 🖥️🖥️
+
+
+
+
 
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholassFerreira&show_icons=true&theme=dark)
 
